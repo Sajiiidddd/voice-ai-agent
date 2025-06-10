@@ -1,0 +1,14 @@
+google-generativeai
+deepgram-sdk
+elevenlabs==0.2.27
+pandas
+python-dotenv
+whisper
+faster-whisper
+sounddevice
+pyaudio
+websockets==10.4
+sounddevice
+numpy
+python-dotenv
+openpyxl
